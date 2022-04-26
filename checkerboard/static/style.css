@@ -1,0 +1,25 @@
+
+h1 {
+    background-color: black;
+    color: red;
+    margin: 0% 37% 20px 37%;
+    padding: 10px;
+    text-align: center;
+}
+
+.board {
+    display: flex;
+    justify-content: center;
+}
+
+.squares1 {
+    background-color: red;
+    height: 100px;
+    width: 100px;
+}
+
+.squares2 {
+    background-color: black;
+    height: 100px;
+    width: 100px;
+}

@@ -1,0 +1,47 @@
+.main {
+    justify-content: center;
+    text-align: center;
+}
+
+.form {
+    display: flex;
+    justify-content: center;
+}
+
+.button1 {
+    background-color: rgb(6, 76, 6);
+    color: white;
+    margin-right: 30px;
+    padding: 5px;
+    text-align: center;
+    width: 60px;
+}
+
+.button2 {
+    background-color: rgb(12, 12, 76);
+    color: white;
+    margin-right: 30px;
+    padding: 5px;
+    text-align: center;
+    width: 60px;
+}
+
+.button3 {
+    background-color: rgb(111, 29, 113);
+    color: white;
+    padding: 5px;
+    margin-left: 30px;
+    text-align: center;
+    width: 60px;
+}
+
+.input {
+    color: black;
+    width: 65px;
+    height: 23px;
+}
+
+.input_button {
+    background-color: rgb(217, 214, 26);
+    box-shadow: 3px 3px;
+}
